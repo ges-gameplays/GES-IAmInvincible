@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/hud/gameplayhelp/iami_boris"
+	"$ignorez"	"1"
+	"$translucent"	"1"
+}
