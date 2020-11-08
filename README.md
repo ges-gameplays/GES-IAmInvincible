@@ -12,7 +12,7 @@ A repository for the GoldenEye: Source gameplay "I Am Invincible!" and its suppo
 
 • When prompted, agree to merge folders
 
-• The gameplays are now installed
+• The game mode is now installed
 
 • Launch a gameplay by typing "ge_gameplay iaminvincible" into the server console
 
